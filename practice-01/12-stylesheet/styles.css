@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+table {
+  border: solid 1.5px black;
+  background-color: darkblue;
+}
+th {
+  border: solid 1px black;
+  background-color: aquamarine;
+}
+td {
+  border: solid 1px black;
+  background-color: whitesmoke;
+}

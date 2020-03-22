@@ -1,0 +1,16 @@
+body {
+  background-color: lightcyan;
+  color: black;
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button {
+  padding: 5px 10px;
+  background-color: lightgreen;
+  color: black;
+  border-style: double;
+}
+input {
+  height: 25px;
+}
